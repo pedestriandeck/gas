@@ -1,0 +1,13 @@
+/* POST02 */
+.po1_infoSec {
+    padding: 40px 20px;
+}
+
+@media (min-width: 760px) {
+    .po1_infoSec {
+        width: 100%;
+        max-width: 592px;
+        margin: 0 auto;
+        padding: 64px 0;
+    }
+}
